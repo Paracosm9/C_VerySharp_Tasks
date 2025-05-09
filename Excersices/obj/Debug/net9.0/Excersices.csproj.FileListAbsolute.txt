@@ -1,0 +1,15 @@
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/bin/Debug/net9.0/Excersices
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/bin/Debug/net9.0/Excersices.deps.json
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/bin/Debug/net9.0/Excersices.runtimeconfig.json
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/bin/Debug/net9.0/Excersices.dll
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/bin/Debug/net9.0/Excersices.pdb
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/Excersices.GeneratedMSBuildEditorConfig.editorconfig
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/Excersices.AssemblyInfoInputs.cache
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/Excersices.AssemblyInfo.cs
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/Excersices.csproj.CoreCompileInputs.cache
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/Excersices.sourcelink.json
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/Excersices.dll
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/refint/Excersices.dll
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/Excersices.pdb
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/Excersices.genruntimeconfig.cache
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Excersices/obj/Debug/net9.0/ref/Excersices.dll
