@@ -8,12 +8,10 @@ class Program
 		{ { 1, 0, 2 },
 		  { 3, 4, 5 },
 		  { 6, 7, 8 } };
-		int x = 0; 
-		int y = 0;
-		GamePlay(grid, x, y);
+		GamePlay(grid);
 	}
 
-	static void GamePlay(int[,] grid, int x, int y)
+	static void GamePlay(int[,] grid)
 	{
 		while (true)
 		{
