@@ -1,0 +1,15 @@
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/bin/Debug/net9.0/Ex.322B
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/bin/Debug/net9.0/Ex.322B.deps.json
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/bin/Debug/net9.0/Ex.322B.runtimeconfig.json
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/bin/Debug/net9.0/Ex.322B.dll
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/bin/Debug/net9.0/Ex.322B.pdb
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/Ex.322B.GeneratedMSBuildEditorConfig.editorconfig
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/Ex.322B.AssemblyInfoInputs.cache
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/Ex.322B.AssemblyInfo.cs
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/Ex.322B.csproj.CoreCompileInputs.cache
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/Ex.322B.sourcelink.json
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/Ex.322B.dll
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/refint/Ex.322B.dll
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/Ex.322B.pdb
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/Ex.322B.genruntimeconfig.cache
+/home/lemni/Projects/GetAcademy/C_omg_so_sharp/Excersices/Ex.322B/obj/Debug/net9.0/ref/Ex.322B.dll
