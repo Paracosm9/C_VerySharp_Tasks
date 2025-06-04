@@ -1,13 +1,8 @@
 namespace Ex._322A;
 
-public class Bet
+public class Bet(string bet)
 {
-	private string _bet;
-
-	public Bet(string bet)
-	{
-		_bet = bet;
-	}
+	private string _bet = bet;
 
 	public void ShowResult(string matchResult)
 	{
